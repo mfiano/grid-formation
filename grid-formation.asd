@@ -5,8 +5,9 @@
   :homepage "https://git.mfiano.net/mfiano/grid-formation"
   :version "0.1.0"
   :encoding :utf-8
-  :depends-on (#:mfiano-utils
-               #:origin)
+  :depends-on
+  (#:mfiano-utils
+   #:origin)
   :pathname "src"
   :serial t
   :components
