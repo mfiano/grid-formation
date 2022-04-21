@@ -2,7 +2,7 @@
   :description "Simple cellular grid formations and algorithms."
   :author "Michael Fiano <mail@mfiano.net>"
   :license "MIT"
-  :homepage "https://github.com/mfiano/grid-formation"
+  :homepage "https://git.mfiano.net/mfiano/grid-formation"
   :version "0.1.0"
   :encoding :utf-8
   :depends-on (#:mfiano-utils
